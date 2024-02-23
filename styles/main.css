@@ -1,0 +1,46 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+header img {
+	float: left;
+}
+
+main {
+	clear: left;
+}
+main h1 {
+	font-size: 150%;
+}
+main h2 {
+	font-size: 130%;
+	text-indent: 0px;
+}
+main h3 {
+	font-size: 105%;
+}
+h2{
+	font-size:170%;
+	color: #800000;
+	text-indent: 30px;
+}
+h3{
+	font-size:130%;
+}
+.celebrate{
+	text-indent: 30px;
+	font-style: italic;
+}
+
+footer p{
+	text-align: center;
+}
+
+a:hover{
+	font-style: italic;
+}
+
+.shadow{
+	text-shadow: 2px 2px #800000;
+}
